@@ -1,6 +1,5 @@
 ### I guess I was probably returning video tapes...
 
-#### Hey, I'm Shipwreck! I'm an aspiring software engineer currently working as an economist. 
 ![](https://github.com/ShipwreckSiren/ShipwreckSiren/blob/main/Arch%20Side%20of%20the%20Moon)
 
 
