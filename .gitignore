@@ -1,0 +1,12 @@
+# Rust
+/target
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# WASM build output
+/pkg
+
+# Node
+node_modules/
+*.log
